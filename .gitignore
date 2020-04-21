@@ -1,0 +1,8 @@
+# virtual environment used for testing
+env/
+
+# built package
+dist/
+
+# compiled docs
+docs/_build/
